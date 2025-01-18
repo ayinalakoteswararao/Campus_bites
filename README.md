@@ -92,7 +92,7 @@ A web application for managing campus cafeteria operations, enabling students an
 ---
 
 ## ✨ Contributors
-- **Your Name**
+- **Ayinala.KoteswaraRao**
 
 ---
 
@@ -103,5 +103,5 @@ This project is licensed under the MIT License.
 
 ## 🌐 Connect
 For queries or suggestions, contact:  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: [ayinalakoteswararao15@gmail.com](mailto:your-email@example.com)
 ```
